@@ -1,6 +1,6 @@
-# Machine Shop Tutorials
+# Hacker Machine Shop Tutorials
 
-A collection of practical tutorials for machinists and metalworkers
+A collection of practical tutorials for hackers who aspire to be machinists and metalworkers
 
 Author: Johannes A. Nilsson
 
@@ -8,7 +8,7 @@ Author: Johannes A. Nilsson
 
 ### 1. [Fundamental Skills](./fundamental_skills/README.md)
 
-The unsexy skills that separate machinists from button pushers. Master these or keep making scrap.
+The unsexy skills that separate **machinists** from **button pushers**. Master these or keep making scrap.
 
 - **Work Holding Secrets**: How to keep parts from becoming projectiles
 - **Edge Finding Techniques**: Paper method, mechanical finders, electronic finders, finding hole centers
@@ -17,7 +17,7 @@ The unsexy skills that separate machinists from button pushers. Master these or 
 
 ### 2. [Bolt Circle Coordinate Calculations](./bolt_circle_coordinates/README.md)
 
-Complete guide to calculating hole positions for common bolt patterns. Covers 4, 5, 6, and 8-hole patterns with practical examples and visual diagrams.
+Complete guide to calculating hole positions for common bolt patterns. Covers 4, 5, 6, and 8-hole patterns with practical examples and some visual diagrams.
 
 - **4 & 8-Hole Patterns**: Simple 90° and 45° spacing - the easy ones
 - **5-Hole Pattern**: The oddball 72° spacing with all the weird trig values
@@ -32,6 +32,15 @@ Shop hacks for setting up angled holes and bevels when the print calls for angle
 - **Triangle Block Method**: Make permanent setup blocks for repeat jobs
 - **Grandpa's Sine Bar Method**: For when you inherited some old timer's tools
 - **Includes**: Formula explanations for n00bs, common angles reference, safety warnings
+
+### 4. [Shop Efficiency](./shop_efficiency/README.md)
+
+Advanced techniques that separate hobbyists from production professionals. Save time, increase ROI.
+
+- **Quick Change Tooling**: Stop wasting 20 minutes on tool changes
+- **Soft Jaws**: Custom workholding that protects parts and speeds production
+- **Shop-Made Tools**: Build your own cutting tools for special use cases & save $$$
+- **Why it matters**: The difference between 4 hours and .5 hour per part
 
 ## Contributing
 

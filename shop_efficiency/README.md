@@ -5,7 +5,7 @@ This section covers some more advanced tools and techniques that help you work f
 ## Tutorials
 
 1. [Quick Change Tooling](./quick_change_tooling.md) - Learn about QC tool post systems and how they save setup time
-2. [Soft Jaws](./soft_jaws.md) - Make custom workholding that protects parts and speeds up production
+2. [Soft Jaws](./making_soft_jaws.md) - Make custom workholding that protects parts and speeds up production
 3. [Shop-Made Tools](./shop_made_tools.md) - Build your own cutting tools for special operations
 
 ## What You Can Learn
